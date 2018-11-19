@@ -1,0 +1,226 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vivelotumismo.com" resolutions="1x" timestamp="1542594371291">
+  <folder name="css">
+    <file name="site_global.css" crc="3841596502"/>
+    <file name="master_a-p_g_-maestra.css" crc="4197346607" ref="cultura:aventura:index:medio-ambiente"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="214201575" ref="cultura:aventura:index:medio-ambiente"/>
+    <file name="cultura.css" crc="295358330" ref="cultura"/>
+    <file name="nomq_cultura.css" crc="3877082527" ref="cultura"/>
+    <file name="iefonts_cultura.css" crc="3976963763" ref="cultura"/>
+    <file name="aventura.css" crc="3924607387" ref="aventura"/>
+    <file name="nomq_aventura.css" crc="3944381972" ref="aventura"/>
+    <file name="index.css" crc="278065770" ref="index"/>
+    <file name="nomq_index.css" crc="272135927" ref="index"/>
+    <file name="iefonts_index.css" crc="3976963763" ref="index"/>
+    <file name="medio-ambiente.css" crc="3924607387" ref="medio-ambiente"/>
+    <file name="nomq_medio-ambiente.css" crc="3944381972" ref="medio-ambiente"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="museutils.js" crc="3803043152" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="museconfig.js" crc="380897831" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="require.js" crc="4157109226" ref="index:cultura:medio-ambiente:aventura"/>
+  </folder>
+  <folder name="images">
+    <file name="patronsuperior.svg" crc="522982258" seo="true" ref="index:cultura:medio-ambiente:aventura">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="patronsuperior_poster_.png" crc="403102496" ref="index"/>
+    <file name="imagenb1.png" crc="3953827710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patronizquierdo.svg" crc="211756761" seo="true" ref="index:cultura">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="patronizquierdo_poster_.png" crc="4206290873" ref="index"/>
+    <file name="patronderecho.svg" crc="4230300277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patronderecho_poster_.png" crc="4243164885" ref="index"/>
+    <file name="putumayo,-vivelo-tu-mismo.png" crc="393515072" seo="true" ref="index:cultura:medio-ambiente:aventura">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="boton.svg" crc="3922882841" seo="true" ref="index:cultura">
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="boton_poster_u14842.png" crc="281683822" ref="index"/>
+    <file name="experiencia1.jpg" crc="4064714052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="experiencia6.jpg" crc="173252409" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="experiencia2.jpg" crc="4210515474" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="experiencia4.jpg" crc="359194207" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="experiencia3.jpg" crc="3900748087" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="experiencia5.jpg" crc="241159812" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:cultura:medio-ambiente:aventura"/>
+    <file name="ubicacion.svg" crc="3953464699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubicacion_poster_.png" crc="4270919936" ref="index"/>
+    <file name="logovb.svg" crc="4049142098" seo="true" ref="index:cultura:medio-ambiente:aventura">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="logovb_poster_.png" crc="3899270076" ref="index"/>
+    <file name="facebook.svg" crc="165528996" seo="true" ref="index:cultura:medio-ambiente:aventura">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="28811117" ref="index"/>
+    <file name="instagram.svg" crc="73075163" seo="true" ref="index:cultura:medio-ambiente:aventura">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="medio-ambiente" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="aventura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="instagram_poster_.png" crc="10993923" ref="index"/>
+    <file name="imagenb11024x685.png" crc="3910436431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagenb1720x482.png" crc="4033280696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagenb2.jpg" crc="3932668334" seo="true" ref="cultura">
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="boton_poster_.png" crc="3926246133" ref="cultura"/>
+    <file name="imagenb21440x998.jpg" crc="3989387824" seo="true" ref="cultura">
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="imagenb21012x702.jpg" crc="403259186" seo="true" ref="cultura">
+      <caption webpage="cultura" alt=""/>
+    </file>
+    <file name="imagenb2320x222.jpg" crc="112211893" seo="true" ref="cultura">
+      <caption webpage="cultura" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3918001985" seo="true" mt="1542594295387" redirect="true"/>
+  <file name="cultura.html" crc="3846817141" seo="true" mt="1542594295387" redirect="true"/>
+  <file name="medio-ambiente.html" crc="4250926079" seo="true" mt="1542594295387" redirect="true"/>
+  <file name="aventura.html" crc="3802415653" seo="true" mt="1542594295387" redirect="true"/>
+</manifest>
